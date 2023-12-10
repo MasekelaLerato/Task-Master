@@ -1,6 +1,6 @@
 # Task Master
 
-Task Master is your ultimate task management app! Seamlessly organize your to-do list, complete tasks with ease. Stay on top of your daily activities, mark off completed tasks, and enjoy the simplicity of managing your to-do list effortlessly..
+Task Master is your ultimate task management app! Seamlessly organize your to-do list, complete tasks with ease. Stay on top of your daily activities, mark off completed tasks, and enjoy the simplicity of managing your to-do list effortlessly.
 ## About
 This is a project i worked on to showcase my typescript skills.
 
